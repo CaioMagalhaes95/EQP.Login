@@ -43,6 +43,7 @@ public class CadastrodeUsuario extends javax.swing.JFrame {
         jButton1 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setBackground(new java.awt.Color(242, 242, 242));
         setPreferredSize(new java.awt.Dimension(907, 658));
         setSize(new java.awt.Dimension(900, 658));
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
